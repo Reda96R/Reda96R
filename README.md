@@ -1,10 +1,10 @@
 <h1>Hi and welcome, I am 2R<h1> 
 <br>
 <a href="https://github.com/Reda96R">
-<img align="center" width= "48%" src="https://github-readme-stats.vercel.app/api?username=Reda96R&show_icons=true&theme=codeSTACKr"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Reda96R&show_icons=true&theme=codeSTACKr"/></a>
 
 <a href="https://github.com/Reda96R">
-<img align="center" width= "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda96R&show_icons=true&theme=codeSTACKr&layout=compact"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda96R&show_icons=true&theme=codeSTACKr&layout=compact"/></a>
 
 <img align="left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)"/>
 <img align="left" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
