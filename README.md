@@ -37,16 +37,16 @@
 
 <p align="center">
     <a href="https://github.com/Reda96R/github-readme-streak-stats">
-  <img title="streak-stats" alt="Reda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Reda96R&date_format=j%20M%5B%20Y%5D&background=09131B&sideNums=FFFFFF&dates=868686&currStreakNum=DDDDDD&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
+  <img title="streak-stats" alt="Reda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Reda96R&date_format=j%20M%5B%20Y%5D&background=0d1117&sideNums=FFFFFF&dates=868686&currStreakNum=DDDDDD&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
   <a href="https://github.com/Reda96R">
-     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Reda96R&show_icons=true&theme=codeSTACKr"/></a>
+     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Reda96R&show_icons=true&bg_color=0D1117&theme=codeSTACKr&hide_border=true"/></a>
   <a href="https://github.com/Reda96R">
-      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda96R&show_icons=true&theme=codeSTACKr&layout=compact"/></a>
+      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda96R&show_icons=true&bg_color=0D1117&theme=codeSTACKr&layout=compact&hide_border=true"/></a>
   <br/>
   <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 <br/>
