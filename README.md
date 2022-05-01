@@ -1,17 +1,69 @@
-<h1>Hi and welcome, I am 2R<h1> 
-<br>
-<a href="https://github.com/Reda96R">
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Reda96R&show_icons=true&theme=codeSTACKr"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<a href="https://github.com/Reda96R">
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda96R&show_icons=true&theme=codeSTACKr&layout=compact"/></a>
-
-<img align="left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)"/>
-<img align="left" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
-<img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/>
-<img align="left" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
-<img align="left" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
+<h1 align="center">Hi and welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 2R</h1>
+<h3 align="center">I'm a passionate technology enthusiast from Marakech,Morocco.</h3>
 
 
-  
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **redarayyad@yahoo.com**
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+    <a href ="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+    <a href="https://www.sublimetext.com/" taarget="_blank"><img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/> </a>
+    <a href="https://www.gimp.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gimp.png"/> </a>
+    <a href="https://icons8.com/lunacy" target="_blank"><img src="https://img.icons8.com/color/48/000000/lunacy-new.png"/> </a>
+    <a href="https://www.adobe.com" target="_blank"><img src="https://img.icons8.com/ios-filled/45/E74C3C/adobe-logo.png"/> </a>
+    
+</p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+<p align="center">
+    <a href="https://github.com/Reda96R/github-readme-streak-stats">
+  <img title="streak-stats" alt="Reda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Reda96R&date_format=j%20M%5B%20Y%5D&background=09131B&sideNums=FFFFFF&dates=868686&currStreakNum=DDDDDD&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+  <a href="https://github.com/Reda96R">
+     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Reda96R&show_icons=true&theme=codeSTACKr"/></a>
+  <a href="https://github.com/Reda96R">
+      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda96R&show_icons=true&theme=codeSTACKr&layout=compact"/></a>
+  <br/>
+  <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<br/>
+<br/>
+
+<a href="https://github.com/Reda96R/github-readme-activity-graph"><img alt="Reda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Reda96R&layout=compact&bg_color=0D1117&color=d3562c&line=d3562c&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://ma.linkedin.com/in/reda-rayyad-626504184"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a>
+<a href = "https://twitter.com/reda_rayyad"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>
+<a href = "https://www.instagram.com/reda_rayyad/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href = "https://web.facebook.com/Rayyad01?_rdc=1&_rdr"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>    
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Reda96R/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Reda96R">
+</a>
+<a href="https://github.com/Reda96R?tab=followers"><img src="https://img.shields.io/github/followers/Reda96R?label=Followers&style=social" alt="GitHub Badge"></a>
