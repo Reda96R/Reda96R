@@ -1,10 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi and welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 2R</h1>
 <h3 align="center">I'm a passionate technology enthusiast from Marakech,Morocco.</h3>
 
 
 ## 🙋‍♂️ About Me
+<a href="#"><img align="right" width="450" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -19,6 +20,9 @@
     <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://ionicframework.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ionic.png"/> </a>
+    <a href="https://www.vim.org/" target="_blank"><img width="45" src="https://cdn.cdnlogo.com/logos/v/69/vim.svg"> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="https://www.sublimetext.com/" taarget="_blank"><img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/> </a>
     <a href="https://www.gimp.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gimp.png"/> </a>
@@ -28,9 +32,9 @@
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+</br>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/Reda96R/github-readme-streak-stats">
   <img title="streak-stats" alt="Reda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Reda96R&date_format=j%20M%5B%20Y%5D&background=09131B&sideNums=FFFFFF&dates=868686&currStreakNum=DDDDDD&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
 </p>
