@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+V<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi and welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 2R</h1>
 <h3 align="center">I'm a passionate technology enthusiast from Marakech,Morocco.</h3>
@@ -21,7 +21,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://ionicframework.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ionic.png"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img width="100" src="https://cdn.cdnlogo.com/logos/b/16/bash.svg"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img width="100" src="https://cdn.cdnlogo.com/logos/b/16/bash.svg"/> </a>
     <a href="https://www.vim.org/" target="_blank"><img width="45" src="https://cdn.cdnlogo.com/logos/v/69/vim.svg"> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
