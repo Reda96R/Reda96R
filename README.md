@@ -9,8 +9,10 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🧠 Interested by **Computational neuroscience**
 
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+ 
 - 📫 How to reach me **redarayyad@yahoo.com**
 
 ## 🚀 Languages and Tools:
