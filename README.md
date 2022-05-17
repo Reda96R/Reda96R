@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi and welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Reda Rayyad, aka 2R</h1>
-<h3 align="center">I'm a passionate technology enthusiast from Marakech,Morocco.</h3>
+<h1 align="center">Hi and welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Reda Rayyad, aka <strong>2R</strong></h1>
+<h3 align="center">I'm a passionate technology enthusiast from Marakech, Morocco.</h3>
 
 
 ## 🙋‍♂️ About Me
 <a href="#"><img align="right" width="450" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></a>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🧠 Interested by **Computational neuroscience**
 
@@ -38,7 +38,7 @@
 </br>
 
 <p align="center">
-    <a href="https://github.com/Reda96R/github-readme-streak-stats">
+    <a href="https://github.com/Reda96R">
   <img title="streak-stats" alt="Reda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Reda96R&date_format=j%20M%5B%20Y%5D&background=0d1117&sideNums=FFFFFF&dates=868686&currStreakNum=DDDDDD&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
 </p>
 
@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Reda96R/github-readme-activity-graph"><img alt="Reda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Reda96R&layout=compact&bg_color=0D1117&color=d3562c&line=d3562c&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Reda96R"><img alt="Reda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Reda96R&layout=compact&bg_color=0D1117&color=d3562c&line=d3562c&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -62,10 +62,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://ma.linkedin.com/in/reda-rayyad-626504184"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a>
-<a href = "https://twitter.com/reda_rayyad"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>
-<a href = "https://www.instagram.com/reda_rayyad/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href = "https://web.facebook.com/Rayyad01?_rdc=1&_rdr"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>    
+<a href = "https://ma.linkedin.com/in/reda-rayyad-626504184" target ="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a>
+<a href = "https://twitter.com/reda_rayyad" target ="_blank"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>
+<a href = "https://www.instagram.com/reda_rayyad/" target ="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href = "https://web.facebook.com/Rayyad01?_rdc=1&_rdr" target ="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>    
 
 </p>
 
