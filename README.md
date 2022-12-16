@@ -39,7 +39,7 @@
 
 
 <p align = "center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/rerayyad" alt="rerayyad's 42 stats" /></a>
+  <img src="https://badge.mediaplus.ma/black/rerayyad" alt="rerayyad's 42 stats" />
 </p>
 
 ## 📊 My Github Stats
