@@ -37,13 +37,17 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 </br>
 
-<p align="center">
-    <a href="https://github.com/Reda96R">
-  <img title="streak-stats" alt="Reda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Reda96R&date_format=j%20M%5B%20Y%5D&background=0d1117&sideNums=FFFFFF&dates=868686&currStreakNum=DDDDDD&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
+
+<p align = "center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/rerayyad" alt="rerayyad's 42 stats" /></a>
 </p>
 
 ## 📊 My Github Stats
+<p align="center">
 
+ <a href="https://github.com/Reda96R">
+  <img title="streak-stats" alt="Reda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Reda96R&date_format=j%20M%5B%20Y%5D&background=0d1117&sideNums=FFFFFF&dates=868686&currStreakNum=DDDDDD&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
+</p>
   <br/>
   <a href="https://github.com/Reda96R">
      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Reda96R&show_icons=true&bg_color=0D1117&theme=codeSTACKr&hide_border=true"/></a>
@@ -53,12 +57,8 @@
   <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 <br/>
 <br/>
-
-<a href="https://github.com/Reda96R"><img alt="Reda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Reda96R&layout=compact&bg_color=0D1117&color=d3562c&line=d3562c&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
-
 ## Connect with me:
 <p align="left">
 
