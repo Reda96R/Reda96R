@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 <a href="#"><img align="right" width="450" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></a>
 
-- 🌱 I’m currently working on **pipex** & **so_long**
+- 🌱 I’m currently working on **push_swap** & **so_long**
 
 - 🧠 Interested by **Computational neuroscience**
 
