@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 <a href="#"><img align="right" width="450" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></a>
 
-- 🌱 I’m currently working on **FdF**
+- 🌱 I’m currently working on **[FdF](https://github.com/Reda96R/FdF)**
 
 - 🧠 Interested by **Computational neuroscience**
 
