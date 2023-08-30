@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi and welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px" height="70px">, I'm Reda Rayyad, aka <strong>2R</strong></h1>
-<h3 align="center">I'm a passionate technology enthusiast, Ux/Ui designer and a software development student student at UM6P-1337 (42 network) coding school.</h3>
+<h3 align="center">I'm a passionate technology enthusiast, Ux/Ui designer and a software development student at UM6P-1337 (42 network) coding school.</h3>
 
 
 ## 🙋‍♂️ About Me
