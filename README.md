@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on **Inception**
 
-- 🧠 Interested by **Embedded system**
+- 🧠 Interested by **Embedded Systems**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
  
