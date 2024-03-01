@@ -7,9 +7,9 @@
 ## 🙋‍♂️ About Me
 <a href="#"><img align="right" width="450" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></a>
 
-- 🌱 I’m currently working on **[CPP Modules](https://github.com/Reda96R/CPP)**
+- 🌱 I’m currently working on **Inception**
 
-- 🧠 Interested by **Computational neuroscience**
+- 🧠 Interested by **Embedded system**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
  
@@ -19,10 +19,10 @@
 
 <p align="left">
     <a href="https://neovim.io/"target="_blank"><img width="45" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"> </a>
-    <a href="https://www.debian.org/"target="_blank"><img src="![image](https://github.com/Reda96R/Reda96R/assets/59890802/84df9f0b-6d84-43fd-b904-d264200af0c1)
-"/> </a>
-   <a href ="https://www.iso.org/standard/74528.html"target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href ="https://isocpp.org/"target="_blank"><img src=<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></a>
+    <a href="https://www.debian.org/"target="_blank"><img src="https://img.icons8.com/color/48/debian.png"/> </a>
+    <a href ="https://www.iso.org/standard/74528.html"target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+    <a href ="https://isocpp.org/"target="_blank"><img src=<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/></a>
+    <a href="https://www.w3schools.com/css/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://html.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://git-scm.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.gnu.org/software/bash/"target="_blank"> <img width="100" src="https://cdn.cdnlogo.com/logos/b/16/bash.svg"/> </a>
