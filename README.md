@@ -21,7 +21,7 @@
     <a href="https://neovim.io/"target="_blank"><img width="45" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"> </a>
     <a href="https://www.debian.org/"target="_blank"><img src="https://img.icons8.com/color/48/debian.png"/> </a>
     <a href ="https://www.iso.org/standard/74528.html"target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href ="https://isocpp.org/"target="_blank"><img src=<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/></a>
+    <a href ="https://isocpp.org/"target="_blank"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></a>
     <a href="https://www.w3schools.com/css/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://html.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://git-scm.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
