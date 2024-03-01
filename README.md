@@ -18,16 +18,14 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href ="https://www.iso.org/standard/74528.html"target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+    <a href="https://neovim.io/"target="_blank"><img width="45" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"> </a>
+    <a href="https://www.debian.org/"target="_blank"><img src="![image](https://github.com/Reda96R/Reda96R/assets/59890802/84df9f0b-6d84-43fd-b904-d264200af0c1)
+"/> </a>
+   <a href ="https://www.iso.org/standard/74528.html"target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+    <a href ="https://isocpp.org/"target="_blank"><img src=<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></a>
     <a href="https://html.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://git-scm.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://ionicframework.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/ionic.png"/> </a>
     <a href="https://www.gnu.org/software/bash/"target="_blank"> <img width="100" src="https://cdn.cdnlogo.com/logos/b/16/bash.svg"/> </a>
-    <a href="https://www.vim.org/"target="_blank"><img width="45" src="https://cdn.cdnlogo.com/logos/v/69/vim.svg"> </a>
-    <a href="https://www.linux.org/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
-    <a href="https://code.visualstudio.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://www.sublimetext.com/"taarget="_blank"><img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/> </a>
     <a href="https://www.gimp.org/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gimp.png"/> </a>
     <a href="https://icons8.com/lunacy"target="_blank"><img src="https://img.icons8.com/color/48/000000/lunacy-new.png"/> </a>
     <a href="https://www.adobe.com"target="_blank"><img src="https://img.icons8.com/ios-filled/45/E74C3C/adobe-logo.png"/> </a>
