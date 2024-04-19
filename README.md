@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 <a href="#"><img align="right" width="450" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></a>
 
-- 🌱 I’m currently working on **[Inception](https://github.com/Reda96R/Inception)**
+- 🌱 I’m currently working on **[ft_irc](https://github.com/Reda96R/ft_irc)**
 
 - 🧠 Interested by **Embedded Systems**
 
@@ -25,6 +25,7 @@
     <a href="https://www.w3schools.com/css/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://html.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://git-scm.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://https://www.docker.com/"target="_blank"> <img src="https://img.icons8.com/fluency/48/docker.png"/> </a>
     <a href="https://www.gnu.org/software/bash/"target="_blank"> <img width="100" src="https://cdn.cdnlogo.com/logos/b/16/bash.svg"/> </a>
     <a href="https://www.gimp.org/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gimp.png"/> </a>
     <a href="https://icons8.com/lunacy"target="_blank"><img src="https://img.icons8.com/color/48/000000/lunacy-new.png"/> </a>
