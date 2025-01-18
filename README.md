@@ -4,24 +4,18 @@
 <h3 align="center">I'm a passionate technology enthusiast, Ui designer and a software development student at UM6P-1337 (42 network) coding school.</h3>
 
 
-## 🙋‍♂️ About Me
-<a href="#"><img align="right" width="450" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></a>
-
-- 🌱 I’m currently working on **ft_transcendence**
-
-- 🧠 Interested by **Embedded Systems**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
- 
-- 📫 How to reach me **redarayyad@yahoo.com**
-
 ## 🚀 Languages and Tools:
+<a href="#"><img align="right" width="450" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></a>
 
 <p align="left">
     <a href="https://neovim.io/"target="_blank"><img width="45" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"> </a>
     <a href="https://www.debian.org/"target="_blank"><img src="https://img.icons8.com/color/48/debian.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> </a>
     <a href ="https://www.iso.org/standard/74528.html"target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href ="https://isocpp.org/"target="_blank"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></a>
+    <a href="https://www.python.org/"target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> </a>
+    <a href="https://www.djangoproject.com/"target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="django"/> </a>
+    <a href="https://threejs.org/"target="_blank"><img width="100" src="https://miro.medium.com/v2/resize:fit:687/1*m0zrCLd2wY29-jiHaxYsgA.png"/> </a>
     <a href="https://www.w3schools.com/css/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://html.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://git-scm.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
